@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"My first Gatsby post","date":"2021-11-05"},"fields":{"slug":"gatsby"}}},{"node":{"frontmatter":{"title":"My first react post","date":"2021-11-05"},"fields":{"slug":"react"}}}]}}}

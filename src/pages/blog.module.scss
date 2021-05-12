@@ -1,0 +1,23 @@
+.blog-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+        background: #f3cccc;
+        padding: 0;
+        margin-bottom: 20px;
+
+        a {
+            text-decoration: none;
+            color: #754848;
+            padding: 20px;
+            display: block;
+        }
+
+        span {
+            font-size: 12px;
+            font-style: italic;
+        }
+    }
+}
